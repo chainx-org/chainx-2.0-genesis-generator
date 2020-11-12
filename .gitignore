@@ -1,0 +1,5 @@
+/target
+Cargo.lock
+/.idea
+node_modules
+/state_1.0/*/vote-weight-accounts-*.json

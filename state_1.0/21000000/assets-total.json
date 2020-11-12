@@ -1,0 +1,110 @@
+[
+  {
+    "name": "PCX",
+    "tokenName": "Polkadot ChainX",
+    "chain": "ChainX",
+    "precision": 8,
+    "desc": "ChainX's crypto currency in Polkadot ecology",
+    "online": true,
+    "details": {
+      "Free": 151048195897791,
+      "ReservedStaking": 537254790447677,
+      "ReservedStakingRevocation": 11227688080154,
+      "ReservedWithdrawal": 0,
+      "ReservedDexSpot": 474325574378,
+      "ReservedDexFuture": 0,
+      "ReservedCurrency": 0,
+      "ReservedXRC20": 0,
+      "GasPayment": 0
+    },
+    "limitProps": {
+      "CanMove": true,
+      "CanTransfer": true,
+      "CanDeposit": false,
+      "CanWithdraw": false,
+      "CanDestroyWithdrawal": false,
+      "CanDestroyFree": false
+    }
+  },
+  {
+    "name": "BTC",
+    "tokenName": "Interchain BTC",
+    "chain": "Bitcoin",
+    "precision": 8,
+    "desc": "ChainX's interchain Bitcoin",
+    "online": true,
+    "details": {
+      "Free": 35392722243,
+      "ReservedStaking": 0,
+      "ReservedStakingRevocation": 0,
+      "ReservedWithdrawal": 0,
+      "ReservedDexSpot": 2532462079,
+      "ReservedDexFuture": 0,
+      "ReservedCurrency": 0,
+      "ReservedXRC20": 0,
+      "GasPayment": 0
+    },
+    "limitProps": {
+      "CanMove": true,
+      "CanTransfer": true,
+      "CanDeposit": true,
+      "CanWithdraw": true,
+      "CanDestroyWithdrawal": true,
+      "CanDestroyFree": false
+    }
+  },
+  {
+    "name": "L-BTC",
+    "tokenName": "Lock-up BTC",
+    "chain": "Bitcoin",
+    "precision": 8,
+    "desc": "ChainX's lock-up Bitcoin",
+    "online": true,
+    "details": {
+      "Free": 887922228646,
+      "ReservedStaking": 0,
+      "ReservedStakingRevocation": 0,
+      "ReservedWithdrawal": 0,
+      "ReservedDexSpot": 0,
+      "ReservedDexFuture": 0,
+      "ReservedCurrency": 0,
+      "ReservedXRC20": 0,
+      "GasPayment": 0
+    },
+    "limitProps": {
+      "CanMove": false,
+      "CanTransfer": false,
+      "CanDeposit": false,
+      "CanWithdraw": false,
+      "CanDestroyWithdrawal": false,
+      "CanDestroyFree": true
+    }
+  },
+  {
+    "name": "SDOT",
+    "tokenName": "Shadow DOT",
+    "chain": "Ethereum",
+    "precision": 3,
+    "desc": "ChainX's Shadow Polkadot from Ethereum",
+    "online": true,
+    "details": {
+      "Free": 1357236060,
+      "ReservedStaking": 0,
+      "ReservedStakingRevocation": 0,
+      "ReservedWithdrawal": 0,
+      "ReservedDexSpot": 76430817,
+      "ReservedDexFuture": 0,
+      "ReservedCurrency": 0,
+      "ReservedXRC20": 0,
+      "GasPayment": 0
+    },
+    "limitProps": {
+      "CanMove": false,
+      "CanTransfer": true,
+      "CanDeposit": false,
+      "CanWithdraw": false,
+      "CanDestroyWithdrawal": false,
+      "CanDestroyFree": false
+    }
+  }
+]
