@@ -40,9 +40,9 @@ echo "Get Assets of ChainX accounts via RPC..."
 assets_filename=$state_dir/assets.json
 if [ ! -f "$assets_filename" ]; then
   RUST_LOG=info cargo run --release --bin assets
-  echo "Verify the assets..."
-  RUST_LOG=info cargo run --release --bin assets-verify
 fi
+echo "Verify the assets..."
+RUST_LOG=info cargo run --release --bin assets-verify
 echo "Done"
 echo "========================================================================="
 echo "Get deposit weight of ChainX accounts via RPC..."
@@ -58,9 +58,9 @@ echo "Get vote weight of accounts and nodes via RPC..."
 vote_weight_filename=$state_dir/vote-weight-accounts.json
 if [ ! -f "$vote_weight_filename" ]; then
   RUST_LOG=info cargo run --release --bin vote-weight
-  echo "Verify the vote weight between accounts and nodes..."
-  RUST_LOG=info cargo run --release --bin vote-weight-verify
 fi
+echo "Verify the vote weight between accounts and nodes..."
+RUST_LOG=info cargo run --release --bin vote-weight-verify
 echo "Done"
 echo "========================================================================="
 echo "Finished"

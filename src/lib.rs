@@ -27,6 +27,14 @@ pub fn accounts_exists<S: AsRef<str>>(filename: S) -> anyhow::Result<bool> {
     Ok(fs::metadata(path).is_ok())
 }
 
+pub fn state_exists<S: AsRef<str>>(height: u64, filename: S) -> anyhow::Result<bool> {
+    let mut path = env::current_dir()?;
+    path.push("state_1.0");
+    path.push(height.to_string());
+    path.push(filename.as_ref());
+    Ok(fs::metadata(path).is_ok())
+}
+
 pub fn save_accounts<S, T>(filename: S, value: &T) -> anyhow::Result<()>
 where
     S: AsRef<str>,
