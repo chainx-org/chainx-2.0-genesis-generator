@@ -48,17 +48,38 @@ async fn main() -> Result<()> {
     let hash = chainx.block_hash(Some(height)).await?;
     log::info!("Block Height {}, Hash: {:?}", height, hash);
 
-    let vote_weight_nodes = chainx
-        .total_nodes_vote_weight_v1(hash, height)
-        .await?
-        .unwrap();
-    save_state(height, "vote-weight-nodes.json", &vote_weight_nodes)?;
+    let vote_weight_nodes = if state_exists(height, "vote-weight-nodes.json")? {
+        log::info!("Note Vote Weight Info {} already got", height);
+        load_state(height, "vote-weight-nodes.json")?
+    } else {
+        let vote_weight_nodes = chainx
+            .total_nodes_vote_weight_v1(hash, height)
+            .await?
+            .unwrap();
+        save_state(height, "vote-weight-nodes.json", &vote_weight_nodes)?;
+        vote_weight_nodes
+    };
     log::info!("Total Node Number: {}", vote_weight_nodes.len());
 
-    let mut handles = vec![];
     // Each connection handles 1/40 of the total accounts, and 40 connections are required
     const CONNECTION_NUM: usize = 40;
-    for (id, accounts) in accounts.chunks(account_number / CONNECTION_NUM).enumerate() {
+
+    let mut skip_done = 0;
+    for id in 0..account_number / CONNECTION_NUM {
+        if state_exists(height, format!("vote-weight-accounts-{}.json", id))? {
+            skip_done += 1;
+            log::info!("Account Vote Weight Info {}-{} already got", height, id);
+        } else {
+            break;
+        }
+    }
+
+    let mut handles = vec![];
+    for (id, accounts) in accounts
+        .chunks(account_number / CONNECTION_NUM)
+        .enumerate()
+        .skip(skip_done)
+    {
         let chainx = ChainX::new(&conf.chainx_ws_url).await?;
         let accounts = accounts.iter().cloned().collect::<Vec<_>>();
         let handle = async_std::task::spawn(async move {
@@ -70,6 +91,11 @@ async fn main() -> Result<()> {
     }
 
     let mut vote_weight_accounts = vec![];
+    for id in 0..skip_done {
+        let vote_weight_account: Vec<AccountWithVoteWeightInfo> =
+            load_state(height, format!("vote-weight-accounts-{}.json", id))?;
+        vote_weight_accounts.extend(vote_weight_account);
+    }
     for (id, handle) in handles {
         let info = handle.await?;
         let mut vote_weight_account = info
