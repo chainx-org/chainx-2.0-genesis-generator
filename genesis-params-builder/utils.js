@@ -2,7 +2,7 @@ const fs = require("fs");
 const { Account } = require("chainx.js");
 const path = require("path");
 
-const migrationHeight = 21000000;
+const migrationHeight = 22000000;
 
 exports.writeFile = (filename, obj) => {
   dir = path.dirname(filename);

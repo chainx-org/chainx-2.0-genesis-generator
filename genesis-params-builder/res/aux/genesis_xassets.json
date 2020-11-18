@@ -52,6 +52,10 @@
     "free": 60000
   },
   {
+    "who": "5Pj95BgjXLKq8hrBoib1jD1jSSNgj4XnZ24kKvV2z2RjT6Eu",
+    "free": 201434
+  },
+  {
     "who": "5PjaECfG7yqTssyuFYhUeJqAX3PToZ7tztknXgtx5cMod6eS",
     "free": 5029
   },
@@ -104,10 +108,6 @@
     "free": 402197
   },
   {
-    "who": "5PqaBRS9sEAhzpzUYGL2HSevHruZw5wppSFDo6BBBevLZ7CM",
-    "free": 201110000
-  },
-  {
     "who": "5PqqkVWbERswexFf2Fw6YZzuxdi8HMzB5defb5wjcMCqH5Li",
     "free": 63716
   },
@@ -122,10 +122,6 @@
   {
     "who": "5PsDgBFuS1pKGN9PwSAHgMVQX23KMsLxdd7imiaV815bQJDi",
     "free": 5
-  },
-  {
-    "who": "5Psjs8XpbDn9a8PFnbcKAuLayTbGY8gL4NzRwVVHb9pRJkd6",
-    "free": 111
   },
   {
     "who": "5Pt8fmG3hphzYTbFV4qw23h9KzC53RE629eGj75km3X9LDvR",
@@ -157,7 +153,7 @@
   },
   {
     "who": "5PvZCZxnzY9QDrJTNaWkrwSjHPeHor4LR3renUw8tXDMqf1k",
-    "free": 2680927
+    "free": 2
   },
   {
     "who": "5Pwan2vqRjQgYvXQZwMLhrQXiQWmMvQWMf5NiakvuHSCn2WG",
@@ -192,16 +188,12 @@
     "free": 3125
   },
   {
-    "who": "5Q2zjKsaNjeCVnZhXjTLhZ2wTFKyW9ZvSvVYB6UhxAs11Lnn",
-    "free": 23688300
-  },
-  {
     "who": "5Q4JKwq6KT3MWLuPmSfRBmAW3LDFxXi6Ax7vH7jJmBNa9wsx",
-    "free": 15245
+    "free": 1
   },
   {
     "who": "5Q5X5DmUsfjpAxzMswRihZbwaPhJKX9s6jg3FDD5fihPy2JA",
-    "free": 184265334
+    "free": 186811047
   },
   {
     "who": "5Q5fe3GzSRmJLroYqGxfERw4CzNhLdNkp47jMtmnoAFaCNkY",
@@ -280,6 +272,10 @@
     "free": 244
   },
   {
+    "who": "5QGW6v7quiXD6z7AhjXJAipF6nsyJkteD9SvPurfK5ncBQbG",
+    "free": 1759
+  },
+  {
     "who": "5QGhSkhBYAJ5Z334HjJC7DQyFb1HQBrPa3zu9aUM1T2JNffc",
     "free": 1
   },
@@ -316,12 +312,12 @@
     "free": 19976
   },
   {
-    "who": "5QLrGBEBwqc7cXffcuMZ7o7wMriwDSYVrgTT32f35su32fXM",
-    "free": 971
+    "who": "5QLojUwkTHPKAYmYNnNBjDpajsypUEUfydbvBm79Rm4J9Wi3",
+    "free": 1
   },
   {
-    "who": "5QMFqF32x6WR3a9p3d4caSrWnGvYVKVk4Q2iAMS3BGDPJ2Ez",
-    "free": 4682024
+    "who": "5QLrGBEBwqc7cXffcuMZ7o7wMriwDSYVrgTT32f35su32fXM",
+    "free": 971
   },
   {
     "who": "5QMWhrCe7QkE3Da2iPNYiReTQbi3wAYsKt28CXSt6tDdAsp5",
@@ -389,7 +385,7 @@
   },
   {
     "who": "5QXxt4FyWtFoPs2K9utq4FAyuWDcs8DUT2f16JqieLhnpeBH",
-    "free": 155710375
+    "free": 154131596
   },
   {
     "who": "5QXzxXUhtusgwGtg8xqMsdYVCQq9wapdp4ReK2tRJTakEUTj",
@@ -449,7 +445,7 @@
   },
   {
     "who": "5QbBQ1kEsSQyPmCwsRAfLqFtqn8Y7aDzmEsz3fUguqnTNUkh",
-    "free": 1582369
+    "free": 2078539
   },
   {
     "who": "5Qbp5fCbCMgdK89k9FQofbt8aqTma2b5diqGK396vDeLtv1X",
@@ -469,7 +465,7 @@
   },
   {
     "who": "5Qda22efcq1RQvNJ26ftkFoVha9Hemt72n8gYLZqSmfiRzYH",
-    "free": 1536050
+    "free": 1560921
   },
   {
     "who": "5QeNGfRuVahLfCG5S9UcDd41ySGtPcMjFWRzRqCThzbiPZuA",
@@ -525,7 +521,7 @@
   },
   {
     "who": "5QkPYEjykSkFzLrNwh6sdWMvDKmeDiFMYiGq2FkYzDdXr4Rx",
-    "free": 69240241
+    "free": 70584897
   },
   {
     "who": "5QkUqL6fLLN3ERCWWaj1Wxduwxbe2KBdvE6WtzHNZbwsxLjH",
@@ -537,7 +533,7 @@
   },
   {
     "who": "5Qn8cbbaGMmogQDUdu7YPQGSkAE9L45gMy4ZPUpkuDdHM5Ez",
-    "free": 36855
+    "free": 1
   },
   {
     "who": "5QnLcZCkqtLGf1q9s54PbhxB5V99yw3S3nTNN4yQFxRsvxCL",
@@ -649,7 +645,7 @@
   },
   {
     "who": "5R67SsnbZk2jJzCBu25KuhDU6oMWPJh8tpzAawiQAohSPVuz",
-    "free": 159612
+    "free": 9487297
   },
   {
     "who": "5R6r1gPXKQsRyYiS813m4btJgQkVMueo6C8v9C3vVYnKonrB",
@@ -669,7 +665,7 @@
   },
   {
     "who": "5R8oYhwzHsRfdzCNU6TcnnePyfuqx1a3ZjQj7vCkVo7E78bb",
-    "free": 48032
+    "free": 1
   },
   {
     "who": "5R8wTkX6wobiF1Ax9M2NRYb7VtJLS3uq3pn61vqjpPP9EDAs",
@@ -690,6 +686,10 @@
   {
     "who": "5RAZf8UHcbS5RBRpP9zptQJm84tpfnxcJ64ctSyxNJeLLxtq",
     "free": 5962
+  },
+  {
+    "who": "5RAqoWrYyoFKYo889LRuVJRMvUegbjH3UMgZNMp2Yf8dDHrR",
+    "free": 459000000
   },
   {
     "who": "5RDDW993RosXAKPhAmsukuyNZQWfF3ye6FejJiEPBwkwnepA",
@@ -717,7 +717,7 @@
   },
   {
     "who": "5RFeptJzCj8FmVKt6QfnbA2NEGcoZUrCHBSBWxmGcPka3EaF",
-    "free": 49632290
+    "free": 1371838
   },
   {
     "who": "5RGPkM597Unz8gFyFC35SWtyhtyJE7k2gjr7Z1KzJf6BC6dk",
@@ -725,7 +725,7 @@
   },
   {
     "who": "5RGaoWM4bGKuCGEwcnGeieufkm9cjD2tXYQuELSaxpEyeAbA",
-    "free": 1550577621
+    "free": 1
   },
   {
     "who": "5RGhpkEFyN27bKp8zCKZ1mxfNFw2QrGY3rBwnDyxweDsSzKQ",
@@ -733,7 +733,7 @@
   },
   {
     "who": "5RGpdujyf1YkfwK57QyrP4jWHmACgF1scLdh4tne4brvi9NW",
-    "free": 1751051
+    "free": 2750539
   },
   {
     "who": "5RHgFmvYdTJq2kWotpXuq3ZEv3WK9fYrSFhR9GFm69p3gLZP",
@@ -788,10 +788,6 @@
     "free": 3
   },
   {
-    "who": "5RSmUSWzZQ34TJiitXSGEWDw2kK13cHikMUhRwz1u4wTe44w",
-    "free": 202862328
-  },
-  {
     "who": "5RT5VgVyAHEwZi6FzrRX7QESPRpHwHHppVSqsJ1E6YQF4U6W",
     "free": 1245117
   },
@@ -829,7 +825,7 @@
   },
   {
     "who": "5RXaXGcz84KQ1XZeAMbjbexXRPNAaPdt3st5QDG3H6VegwD6",
-    "free": 125553639
+    "free": 226341788
   },
   {
     "who": "5RXdpxRJK1JNHV4sLbBTVhBhpUDZQHepZJn9ec8HZ1nE2j89",
@@ -845,7 +841,7 @@
   },
   {
     "who": "5RZrUvkXiLzj4YaRFy3qxHooNE1xiN5MbqZvBusSkj3Tjci5",
-    "free": 126504127
+    "free": 38723503
   },
   {
     "who": "5RaLXrWfhLcwgX3a9XX39v6r3VacW7bNJwEoTs5dUCqEnEDV",
@@ -869,7 +865,7 @@
   },
   {
     "who": "5RcK2qRMujAY4uoUiMvy19y9aTzM9BbpXrjZbWQ3YeqtMfw2",
-    "free": 1008000
+    "free": 81591849
   },
   {
     "who": "5RcchKEdBaVQfPpjFvQq13mQX61Azvk8GvbdF1iNsTeyJvyf",
@@ -901,7 +897,7 @@
   },
   {
     "who": "5RgnJwrHsztikNNc6ridJwFnxFBjCN9xrnAZNCpJo26i4Jcf",
-    "free": 1000
+    "free": 1
   },
   {
     "who": "5Rh1CmYoA96Y2y6X5hrr5Ji3cXBzpr5AUDGy9m7824bJ5Mq6",
@@ -1025,7 +1021,7 @@
   },
   {
     "who": "5RvCAbGcwsse2fG6r71C3SVGpAaW9N2Rh23AdA6uYvrmtJis",
-    "free": 27580238
+    "free": 24969941
   },
   {
     "who": "5RvWo3JnMTuWKmCbbq5v3y59WXWMskhPbWg5ikRU6h9Ut32L",
@@ -1037,7 +1033,7 @@
   },
   {
     "who": "5RwrV2kxy3N38eXazFSS1ZZDXmPAYvECCgiNqDRRngApQSDA",
-    "free": 58160617
+    "free": 5
   },
   {
     "who": "5RxJNyFCgySoH9BdZrMYZoxaoUgKA5pmBXEu6k5zz1xkNC1G",
@@ -1057,7 +1053,7 @@
   },
   {
     "who": "5RzFqSvcEE28ZKngwpAoNmQRLaVx46eW3L3xNAFPyKvkEJZF",
-    "free": 200387
+    "free": 353146
   },
   {
     "who": "5S1zbPFgbXHPg42YDXKic2kcrC1uZiEMf5JiuF56wmeBwgV4",
@@ -1086,6 +1082,10 @@
   {
     "who": "5S3VtVBhtoykBzZkzjNRGf3CHftQmFc1ks9QFsweCDGjuXxH",
     "free": 83
+  },
+  {
+    "who": "5S3mC7gwGMNS5e36CJKcAyj6SoEtR1tx7qtDy2d8AjdN73Xn",
+    "free": 55933000
   },
   {
     "who": "5S4U5Tmj4bVUfT63t9ppcnE5GboKtjJ3VCLMhQ5mwVd3X6Sy",
@@ -1137,7 +1137,7 @@
   },
   {
     "who": "5SAjb8yXwfgPSKrwYENhkJkunMhKh2zg4Mikh3sbwxHCJ8cC",
-    "free": 1000000000
+    "free": 690000000
   },
   {
     "who": "5SBAnw3xEiS51y5iwSEVCAMogN5qszUm7UJ3bXZhfXcAg2yx",
@@ -1161,7 +1161,7 @@
   },
   {
     "who": "5SEMbosemqD3gWJTtwpPgbCtLWPpuBcMfqqEVFq4am6LBoro",
-    "free": 157386
+    "free": 255853
   },
   {
     "who": "5SEX4t3fVWMw8uQLX8ojHshd63ypZauzuQPQHFmbLbeMEfP9",
@@ -1173,7 +1173,7 @@
   },
   {
     "who": "5SGf9GH4Vh7977ErV5Qumc8cjfRRzqjQaVwVNfDa2aAFwbzm",
-    "free": 2261740969
+    "free": 2307911564
   },
   {
     "who": "5SHGbBz8kEUBP3KQCNKyCqCcjdsAnSmWtJYx3tq8kom6abr9",
@@ -1240,10 +1240,6 @@
     "free": 247700
   },
   {
-    "who": "5SWAPQw1XgFWvfgwZvLc4MHNiZQMJsrkNxgMcb3pxgRQmnbW",
-    "free": 35633033
-  },
-  {
     "who": "5SWYdrnhgFy54dqrzKdwcWgtUhDQZ45L5uwk6EUWsW28jYpA",
     "free": 113161206
   },
@@ -1265,7 +1261,7 @@
   },
   {
     "who": "5SYjWq7vmx8E5Wi1ikojEQ2iwFn3XGbfanFwAzuWphjm5Vfr",
-    "free": 7878320
+    "free": 8423569
   },
   {
     "who": "5SZGKSBEPJS3DoTZ3yf6uTs7SAECesaozdNMhesSofpTQmEV",
@@ -1301,7 +1297,7 @@
   },
   {
     "who": "5ScCu1YTjFfmCt5fdvdXbaSZiuQwE5taytdVekmBuoXeit8V",
-    "free": 24471918
+    "free": 39280121
   },
   {
     "who": "5Se3X1GTx9owQhBuPCohB14dZqANS3m6MqwqPhjSDKkhKxR1",
@@ -1436,16 +1432,20 @@
     "free": 2194000
   },
   {
+    "who": "5SuV4hPab9xKkPxnSL7W3R6Z5xRtN6aSdpUDwGQDBSaoQqRK",
+    "free": 12554
+  },
+  {
     "who": "5SuqNeggggNuQsL4VitUGuzawHkfD3UceUWBW7JUDLCG4yBY",
     "free": 25
   },
   {
     "who": "5SuqnRGUsBpBAbDh6W2vPX1LT7dUycbhJrZmsMNT1dKMnHeE",
-    "free": 68717572
+    "free": 201190143
   },
   {
     "who": "5SuzarfdjzTK4uYHKykBKd6BUs13KmUWPwiAZhWFYkXg9dVF",
-    "free": 10000000000
+    "free": 10402431152
   },
   {
     "who": "5Sv2iw5pJvEYSfE8Pc2F6D5pVV1Fgy7nifTF2rGTbBBZDnDc",
@@ -1461,7 +1461,7 @@
   },
   {
     "who": "5SwX3tXNyBwcsw8BwpJeG6et1DPmc3smHCNscBbJU2hjFQdk",
-    "free": 3287779
+    "free": 3290025
   },
   {
     "who": "5SxAyqMPDUMCYXJbRfkhjLYUJAfGVeW3jPVRFiwHSPtkUXe6",
@@ -1493,7 +1493,7 @@
   },
   {
     "who": "5T2Hu3h69AWNMZYtFQ3FwHsVeR9oT3AJqrn88SeELmfHkFUT",
-    "free": 3550236
+    "free": 4097436
   },
   {
     "who": "5T2MG6dr7BVxLkQwwMV2uMbCm8g7ne3it5p2BX7rEUHBp1eq",
@@ -1558,10 +1558,6 @@
   {
     "who": "5TALBPUCdt3bZqZ9VekVCJvNzDPqAZrw1RVUk7hDqS3XMLze",
     "free": 2
-  },
-  {
-    "who": "5TAUJePpMCCMBukSGgXFdSme2MNSWm7rmLvUJ6GfiL9ZRd6A",
-    "free": 5000000
   },
   {
     "who": "5TCfo6exP1FTWm8BYeufxiY4R4kJ7fdaReZ5ZMgPazTMVu9p",
@@ -1676,10 +1672,6 @@
     "free": 950
   },
   {
-    "who": "5TPyU7WtPobQQQAKKxqqWEYwTfWLABRLbfpDYNC8Xy2JPyuv",
-    "free": 3032700
-  },
-  {
     "who": "5TQ978nZgWpCzxAifqwNUfS7LgdB4qYGjSauwqUEEjpgRSWL",
     "free": 180000
   },
@@ -1720,10 +1712,6 @@
     "free": 1772961
   },
   {
-    "who": "5TSJbKWdmZ8b5c4o9r8WQrZdAhjQePzfpWnfpKrwsCxo6W2J",
-    "free": 5210718
-  },
-  {
     "who": "5TSQuQSsiJgaWcMpjjD2AWbpPVaJW9aCVXVWrNL4N5YhTSHZ",
     "free": 1
   },
@@ -1732,12 +1720,20 @@
     "free": 49186339
   },
   {
+    "who": "5TTnYRASSnMVTsTaebyapTG541M5HbXTwSRhEQCHheE6RvPC",
+    "free": 131000
+  },
+  {
     "who": "5TTpXKjF6EKohqxbDSE5xCogtzDDZRC185Bq5DxxHj1siEhp",
     "free": 2
   },
   {
     "who": "5TU6dJ6nr49Ym9NTt3N4ekUP4VnUnZCxF33KmrRu7w3EuiED",
     "free": 1
+  },
+  {
+    "who": "5TUAFsEuzpqJQiHADQ9AHvBBgJRfEVKk5MJ2Lf1WuoaM9BnH",
+    "free": 21446
   },
   {
     "who": "5TUQgVp3L7uMKsyKz4QMfmShYskT6pGtPoozjiFr98obAKtU",
@@ -1773,7 +1769,7 @@
   },
   {
     "who": "5TXzXhL3SjoXTbZtGkpjMCCZpoqEEbnyUi1m66yqqcKbfTbT",
-    "free": 4600991
+    "free": 5172311
   },
   {
     "who": "5TZ7k8eTDaMRt7hjRiyHeo99RucwqH2aFpWX9FoppATE1Y4X",
@@ -1853,7 +1849,7 @@
   },
   {
     "who": "5Tgy8Trf6XnN2b2wULVyPE6i73qYxJcYwKPM7PMGgHQkHdFi",
-    "free": 55180811
+    "free": 7744381
   },
   {
     "who": "5Th5hYCXjAbJdtd2f5qxrBd4LzDDBKvkennLqUrbguzqxQSq",
@@ -1980,10 +1976,6 @@
     "free": 243
   },
   {
-    "who": "5TwqbkQkG6HEbEc8J8gfYHNWme3MHSJZeVCdNHUVRb7doyTH",
-    "free": 61843680
-  },
-  {
     "who": "5TwttnSzBLQbFhas7xwfCJvEgUHdqBuBgMmUw1EW9nUTnVR2",
     "free": 6
   },
@@ -2008,10 +2000,6 @@
     "free": 116081
   },
   {
-    "who": "5TzGif94bZoDavoYjGx3FDfDuvu8mt8RP5Qtj48RGPC2Ln3B",
-    "free": 680000000
-  },
-  {
     "who": "5TzH3WzZPd1xqDp5Lb8opCLhHCYfMB9mzCAkjhSeZiUsdywG",
     "free": 53
   },
@@ -2025,7 +2013,7 @@
   },
   {
     "who": "5U1kY3KpEpmFaMPNwRGCoGkJYRkcjJZhZ6jwUveugcsuNBRT",
-    "free": 1
+    "free": 10907
   },
   {
     "who": "5U1tmH6WTWmRrERTdyJB1Pkx5SFLtCFBz9cb8UZkckZMY9xW",
@@ -2037,7 +2025,7 @@
   },
   {
     "who": "5U266CdkngBbvC2Z86PkETbfgpXRLRF1DS4GeNsrxs1LFrGD",
-    "free": 305928012
+    "free": 306520492
   },
   {
     "who": "5U2Cty9khm9aW762o14GUHHBcLU1PbqRuRomW33EbQpUAHxS",
@@ -2065,7 +2053,7 @@
   },
   {
     "who": "5U4dtP9yp8jSK22Qea92zZFYrMECH5XPRizATdCozYkxhRdM",
-    "free": 40000
+    "free": 2
   },
   {
     "who": "5U6Dnr1AGT2RXEMtbnGM1eB8xYaHFXCB8HHxajQTzYEekpLp",
@@ -2078,6 +2066,10 @@
   {
     "who": "5U7SiCBxYvD1uRbQUPizVLUgxuj9HUrWVkZYSUc3GiQU8bfV",
     "free": 176
+  },
+  {
+    "who": "5U7VKgZuKxeSLp76DcwaMRCfFQSx8tmiUibTiPmDZJ9JNZvZ",
+    "free": 26450
   },
   {
     "who": "5U7x6eZ8dnqB3x32fBGrZkSUkSn6ZTCvHs9TZw7AbqCbeCkR",
@@ -2289,7 +2281,7 @@
   },
   {
     "who": "5UUGCqaxqpM22cvJGpqdx7LopEKsSNSHvVtGf9ngUeEQdbew",
-    "free": 647
+    "free": 250802
   },
   {
     "who": "5UUN1eaxp2w83CiW6GavzUyqrB4niPTDLFHXEk12o2ese4xx",
@@ -2304,6 +2296,10 @@
     "free": 27931
   },
   {
+    "who": "5UVHRqz7CRyxVFNtQJLnhW2MMnTDMmbk7aqWBoCsHpQnA6Pa",
+    "free": 5119387
+  },
+  {
     "who": "5UVU2op1ceyDkwG41ACcoAjyNcEuEf2yJFN5b2vRLkfMEzvH",
     "free": 100000
   },
@@ -2312,8 +2308,12 @@
     "free": 10
   },
   {
+    "who": "5UW3aVEWc41PqpyaeGW5sy74jEFVQbwy9TYAWGaNHapjfVBL",
+    "free": 135000
+  },
+  {
     "who": "5UW4LiYMc1r1X3yQVLCVi281wi5GCyRCwJZ3d9jHpbBSGW5Y",
-    "free": 15412541
+    "free": 53335
   },
   {
     "who": "5UYy9GvXgAgMYPH2HDbxCRkREjBGnGqFhHGbVYa8mrYWeH5y",
@@ -2329,7 +2329,7 @@
   },
   {
     "who": "5UZhBT59nZZ5YvVrEB5ddzHSfowkNEXhih8NPGFssXm3L8yH",
-    "free": 9001
+    "free": 2
   },
   {
     "who": "5UaM7vE4kzBE8VjgqnYhw7r76VtfuStbXyuosqegEU9XJRVq",
@@ -2341,7 +2341,7 @@
   },
   {
     "who": "5UacrUrD38SvX8UJNW4nq1SKnjebSt1iBkptZ6awv24yLHMT",
-    "free": 433800000
+    "free": 300000000
   },
   {
     "who": "5UbQ1cu6AKpCuAN6j7nnpZMW2p4mMBju7q1pn2uPtT3iz9hW",
@@ -2557,7 +2557,7 @@
   },
   {
     "who": "5V7ZQt1Y8CUrPaQn3EXctwLubEZjDfixemojxcNagETeE43a",
-    "free": 34627006
+    "free": 37532006
   },
   {
     "who": "5V7ygyZ53psrNSFgT3n7Xnxd6r7eC6bga3eA4W8KYEs75ZeC",
@@ -2569,7 +2569,7 @@
   },
   {
     "who": "5V8pSBi8ioRfzYAVmmYF4sJ6s3Ru1tB7zgamz3sjY1y4LP7N",
-    "free": 1
+    "free": 39331
   },
   {
     "who": "5V9uXrDTioi1TCSKoeHVxeH44cERaddG9DzrnGcYKyuZuwQZ",
@@ -2589,7 +2589,7 @@
   },
   {
     "who": "5VBXAZ7276AAhAztK4avfUoz1NSdwjxCmL9HAcfNfB2PFVmR",
-    "free": 2169960001
+    "free": 1
   },
   {
     "who": "5VBbWu7ZMkdpZBWczcvLQr1wHm63QUzjQSjU9eKwRzzfErMc",
@@ -2597,7 +2597,7 @@
   },
   {
     "who": "5VBjvgEFCK8zyeHqFhBLmsfq1paxD5XW6yLfnCQzn1rJpUmr",
-    "free": 5181953
+    "free": 3822463
   },
   {
     "who": "5VBnp126bxU7FnvtcazjmjFCD5HjzfEGdSq9o6Hj9CSw3wno",
@@ -2625,7 +2625,7 @@
   },
   {
     "who": "5VFffbezPAojNQW9PwYzB4eYJ49yvKd2x4hvFgYCRCbbxtEZ",
-    "free": 2750916
+    "free": 3932376
   },
   {
     "who": "5VFpgx7WfcRPqaBqWaZfVsciVUqJT6B5TFYswRbFXvhTWRcK",
@@ -2656,10 +2656,6 @@
     "free": 131938
   },
   {
-    "who": "5VHspZ5hNnVHeZ9YH4L6mqoKiW8jjFJJXZirQujLxLSb1uec",
-    "free": 20200800
-  },
-  {
     "who": "5VJPK9vpjfw2HjvgGdX56zuTi6Pr7vGvYbyN5CWEZyYaby7w",
     "free": 10071
   },
@@ -2669,7 +2665,7 @@
   },
   {
     "who": "5VJcjRJNSuKvECsfVBnCjPWYospdsG4d2QAtRR9woR3QCpzL",
-    "free": 172326799
+    "free": 114800488
   },
   {
     "who": "5VJmp1Y3Tc1nL59hYWypNMcNgJusfrERPZsiMzGAA1V3CEzq",
@@ -2737,6 +2733,6 @@
   },
   {
     "who": "5VRPAcEm8yKt2NEaRLMsUZZkZHEVW1gCL6cZfG8X7Scc6aqE",
-    "free": 1330908
+    "free": 70730
   }
 ]

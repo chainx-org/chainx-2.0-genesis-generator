@@ -640,22 +640,6 @@
     "lastTotalVoteWeightUpdate": 197713
   },
   {
-    "account": "5RiDeteqRefbpBG1nDbSmaCTtKs4DhRPp4SS8ct2h5CC6Uat",
-    "name": "SuproNode",
-    "isValidator": false,
-    "selfVote": 0,
-    "jackpot": 0,
-    "jackpotAccount": "0x094845cb14315a45a88ad76b23316168d16b5618e7599af5a3bb428967d8e5ee",
-    "url": "node.supro.dev",
-    "isActive": false,
-    "about": "",
-    "sessionKey": "0x5bab6b989c8f29b1e2ed8548aa3c3f3d0caa65d7002cda69b12df8e14a26ebda",
-    "isTrustee": [],
-    "totalNomination": 0,
-    "lastTotalVoteWeight": "0",
-    "lastTotalVoteWeightUpdate": 20530805
-  },
-  {
     "account": "5Rpdz2ef45W47tKWZQZ4X7kQvt7uGgboB8Fn8BgR8Q2sBhWA",
     "name": "Ethereum",
     "isValidator": false,
@@ -734,6 +718,22 @@
     "totalNomination": 0,
     "lastTotalVoteWeight": "0",
     "lastTotalVoteWeightUpdate": 0
+  },
+  {
+    "account": "5S3tFaqZjRoMvHGrmWgbSRAAh7T3TtZxEFmG9w646qjTnyg3",
+    "name": "CorsicaPCX",
+    "isValidator": false,
+    "selfVote": 23100000000,
+    "jackpot": 0,
+    "jackpotAccount": "0x65a00a13acdd59295f5ec8bfe0f9bfbb51af957a43b7c71ec72a4a36948b342d",
+    "url": "CorsicaChainX",
+    "isActive": false,
+    "about": "https://resize.marianne.net/r/770,462/img/var/LQ2826918C/345990/corse-republique-marianne-2020.jpg",
+    "sessionKey": "0x6aab0414e6d185d6e3659025d1a5bb778fb7fea6b823d129e3b4398c376337f8",
+    "isTrustee": [],
+    "totalNomination": 23100000000,
+    "lastTotalVoteWeight": "93351963000000000",
+    "lastTotalVoteWeightUpdate": 21888578
   },
   {
     "account": "5S4U5Tmj4bVUfT63t9ppcnE5GboKtjJ3VCLMhQ5mwVd3X6Sy",
@@ -1070,22 +1070,6 @@
     "totalNomination": 0,
     "lastTotalVoteWeight": "0",
     "lastTotalVoteWeightUpdate": 8079756
-  },
-  {
-    "account": "5TUkY4VZ3fgs3AipkKtEhLaR8gao7bdKSG68nK7wSSGWt6NN",
-    "name": "MXCPOSPOOL",
-    "isValidator": false,
-    "selfVote": 0,
-    "jackpot": 0,
-    "jackpotAccount": "0xdde70a20ffd3dd4b4f446be0bb93a25288cb51594e0305026c70d8b7f7d0f825",
-    "url": "",
-    "isActive": false,
-    "about": "",
-    "sessionKey": "0xa9de6910dfe23f9afcde905ebbc786a2138c40ebc4de640afde298bbdaca5a46",
-    "isTrustee": [],
-    "totalNomination": 0,
-    "lastTotalVoteWeight": "0",
-    "lastTotalVoteWeightUpdate": 19242351
   },
   {
     "account": "5TVn6kxuotLimdr6uzJ2smiXMiCemNrjXHqbG1fDKCFtu22o",
@@ -1571,7 +1555,7 @@
     "account": "5VCNK4wChXbHery6Z13QevLwHNnUc7DCRd7YW93AXopu9KBQ",
     "name": "Hybridge",
     "isValidator": false,
-    "selfVote": 4200000000,
+    "selfVote": 0,
     "jackpot": 0,
     "jackpotAccount": "0xd7a9ab5d933fe5e355b01570b54232f4636a00a74b6e0881acd92873a5cf3afb",
     "url": "",
@@ -1579,9 +1563,25 @@
     "about": "",
     "sessionKey": "0xf5d8235f73faac40ea72d9aafd488c5b91ea8c5b12dd3fac52ae77d34d48b5f7",
     "isTrustee": [],
-    "totalNomination": 4200000000,
-    "lastTotalVoteWeight": "4683026400000000",
-    "lastTotalVoteWeightUpdate": 20741082
+    "totalNomination": 0,
+    "lastTotalVoteWeight": "9841810800000000",
+    "lastTotalVoteWeightUpdate": 21969364
+  },
+  {
+    "account": "5VGxhDXewZqaVL8TkCEzdS8LwaAcqEmqqGBZ33gT1zE7AEnH",
+    "name": "Token360",
+    "isValidator": false,
+    "selfVote": 0,
+    "jackpot": 0,
+    "jackpotAccount": "0xb31b9a7933fea3fa5302661ee262af30ab92633a324d0e963d90d54710f870ac",
+    "url": "www.token360.io",
+    "isActive": false,
+    "about": "",
+    "sessionKey": "0x69e42e46aeb855b85181bda3a6c37b02df8868befc0307bcc54df6852c5b9a4e",
+    "isTrustee": [],
+    "totalNomination": 0,
+    "lastTotalVoteWeight": "0",
+    "lastTotalVoteWeightUpdate": 21932322
   },
   {
     "account": "5VH7ydSQVQTkxQ7NvPazT8ffZesUN8AdMi8X4r8LpQDtZ5Jh",

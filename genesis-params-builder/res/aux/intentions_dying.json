@@ -48,22 +48,6 @@
     "lastTotalVoteWeightUpdate": 370157
   },
   {
-    "account": "5QccQsc53KdTnBmaB5HkTZwYyQQj9bcwVLPWqn1DZzgQNdux",
-    "name": "ChainXTools",
-    "isValidator": false,
-    "selfVote": 0,
-    "jackpot": 97956594,
-    "jackpotAccount": "0x380d2cbb660897c694df5279ed07983149eb732f7a9f546a728921b7e1b9d43c",
-    "url": "chainxtools.com",
-    "isActive": true,
-    "about": "https://chainxtools.com Chainx 挖矿投票工具",
-    "sessionKey": "0xdf98b9906ca2d52e79cac21224d3953cf5493cb1c674a1daed630e1622187d0f",
-    "isTrustee": [],
-    "totalNomination": 1581000000,
-    "lastTotalVoteWeight": "193471576000000",
-    "lastTotalVoteWeightUpdate": 19362405
-  },
-  {
     "account": "5QeoobSYPxkkNVGm72M817BDcgZ7RmiNauhrQSGuYtbGVHi7",
     "name": "DHG",
     "isValidator": false,
@@ -78,6 +62,22 @@
     "totalNomination": 48343308,
     "lastTotalVoteWeight": "801879030052730",
     "lastTotalVoteWeightUpdate": 18863819
+  },
+  {
+    "account": "5Qi8hTUgg7p6E39M9xjczQUG5Hrg5Gg9ZpS34kDZENsWsrBH",
+    "name": "Stella",
+    "isValidator": false,
+    "selfVote": 0,
+    "jackpot": 57201588,
+    "jackpotAccount": "0x34e705d2acec674e0e4d47d29e0d69fb9c9bd0b20e606f8f4aa6c12815d98496",
+    "url": "chainx.org",
+    "isActive": true,
+    "about": "",
+    "sessionKey": "0x2f5e8117e43153221e53cdab1a357ac180bc52c6a907a453924ce7385f95dc7f",
+    "isTrustee": [],
+    "totalNomination": 9871000000,
+    "lastTotalVoteWeight": "14300000000",
+    "lastTotalVoteWeightUpdate": 21810602
   },
   {
     "account": "5QqzU1Qatpm5s8azBBaceVfYHqjdEKHmARPgynBQsxz1aQPq",
@@ -115,17 +115,17 @@
     "account": "5RSmUSWzZQ34TJiitXSGEWDw2kK13cHikMUhRwz1u4wTe44w",
     "name": "666",
     "isValidator": false,
-    "selfVote": 24000000000,
-    "jackpot": 40182235,
+    "selfVote": 27000000000,
+    "jackpot": 73476269,
     "jackpotAccount": "0x1a68ccdd32b34bee07abcce87954c050b608dcc8d078ad37422cb9bfe60b6066",
     "url": "666.go",
     "isActive": true,
     "about": "我们的节点666",
     "sessionKey": "0x4fe29bdf95c327b89a9c1e13bfc449007e5f928e42a5913b632c43f522b91665",
     "isTrustee": [],
-    "totalNomination": 160300908886,
-    "lastTotalVoteWeight": "817149771714022",
-    "lastTotalVoteWeightUpdate": 20997424
+    "totalNomination": 248684072770,
+    "lastTotalVoteWeight": "1217576536703580",
+    "lastTotalVoteWeightUpdate": 21995202
   },
   {
     "account": "5RTJVcxaJ6sBScXsefxa6CkZbdPo6uNwkdPbYv6Gpkmyk2RW",
@@ -148,16 +148,16 @@
     "name": "Angel",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 128668,
+    "jackpot": 72685,
     "jackpotAccount": "0x9c6e0a14ed7d347238b27b2b9fa1ed350ccdaf9a3b66293a5ac76abcbfc5f791",
     "url": "www.saluscoin.info",
     "isActive": false,
     "about": "Making Staking Great Again",
     "sessionKey": "0x599a722dafb902a6ba717c5734396ef757a651c78c6d1acde886837e17f942ad",
     "isTrustee": [],
-    "totalNomination": 1160063899,
-    "lastTotalVoteWeight": "3668236896696923",
-    "lastTotalVoteWeightUpdate": 20761410
+    "totalNomination": 143000000,
+    "lastTotalVoteWeight": "2691340488300364",
+    "lastTotalVoteWeightUpdate": 21706174
   },
   {
     "account": "5RgzLMND5Lo8Loa3UFe8mmhMD9QEGsAN9GwFRJH4LKy3qUfU",
@@ -308,7 +308,7 @@
     "name": "StarBlock",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 702528,
+    "jackpot": 606103,
     "jackpotAccount": "0x875e1e21a402c44a4fbaaecd0119d8a1b89505b6d7e4a8e9221a9955213477e7",
     "url": "StarBlockchain",
     "isActive": false,
@@ -316,8 +316,8 @@
     "sessionKey": "0xa79e0c2c28723d4de4a40720a11fd24aa682ff2199ce8066cca7b7f06a68c928",
     "isTrustee": [],
     "totalNomination": 0,
-    "lastTotalVoteWeight": "5100000000000",
-    "lastTotalVoteWeightUpdate": 19886403
+    "lastTotalVoteWeight": "4400000000000",
+    "lastTotalVoteWeightUpdate": 21296413
   },
   {
     "account": "5TXE9frUpi7qRCoYqX75RYXyrVQVUK9Zh8kWm2MJvvnByHnq",
@@ -356,7 +356,7 @@
     "name": "ReadMyLife",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 14714672,
+    "jackpot": 13427779,
     "jackpotAccount": "0xd2de411a83832b57b9920399024f923b1e5376b98a21fa9ebadcbaa4f5bc1e5c",
     "url": "www.readmylife.cn",
     "isActive": false,
@@ -364,8 +364,8 @@
     "sessionKey": "0x092bc3b7d336ab323d68d2f4d383d22ab60afbf874c0ddea5d4696cd35a977f1",
     "isTrustee": [],
     "totalNomination": 400000000,
-    "lastTotalVoteWeight": "384718724309680",
-    "lastTotalVoteWeightUpdate": 19720806
+    "lastTotalVoteWeight": "830536800000000",
+    "lastTotalVoteWeightUpdate": 21034344
   },
   {
     "account": "5Td79BZjv42AtdBxm2bQkaXZF82QEoDqfpbVJtNbnNmxZZHs",
@@ -388,32 +388,16 @@
     "name": "DushuPOS",
     "isValidator": false,
     "selfVote": 9000000,
-    "jackpot": 67479954,
+    "jackpot": 5412187,
     "jackpotAccount": "0x915f7b473688410a53d117fd1a0c666d2ea0ac2a959a59d3b341e9bbbef99405",
     "url": "dapp.cc",
-    "isActive": true,
+    "isActive": false,
     "about": "DushuPOS，带你掘金POS经济世界。",
     "sessionKey": "0x50b7853225df158bf06135c8d1f304369b0ee2bf3890a5f10f92bb2f4766ad52",
     "isTrustee": [],
-    "totalNomination": 1200000000,
-    "lastTotalVoteWeight": "134294713895000",
-    "lastTotalVoteWeightUpdate": 19587236
-  },
-  {
-    "account": "5TogzrRrq7W6eBPMpTogCYof28b4hx2zxfseUFMy6AJYJCgx",
-    "name": "aa",
-    "isValidator": false,
-    "selfVote": 1010000000,
-    "jackpot": 68433696,
-    "jackpotAccount": "0x36b1e6dd1cd42e964dba45e6581a99d3e23cedeb7ea484b3e3207886467b386b",
-    "url": "aa.aa",
-    "isActive": true,
-    "about": "",
-    "sessionKey": "0x0e6063e02d6a0bb22a8cbcfc9ad1c5e8869e3ca201893fefe80f8128b3b28e46",
-    "isTrustee": [],
-    "totalNomination": 1010000000,
-    "lastTotalVoteWeight": "161910000000",
-    "lastTotalVoteWeightUpdate": 19087390
+    "totalNomination": 9000000,
+    "lastTotalVoteWeight": "147855715895000",
+    "lastTotalVoteWeightUpdate": 21094014
   },
   {
     "account": "5Tv1zExtbnshoFadfJQQKUuQzkc2p5tQoBj1yFDE4q4DBMPZ",
@@ -435,17 +419,17 @@
     "account": "5U1kY3KpEpmFaMPNwRGCoGkJYRkcjJZhZ6jwUveugcsuNBRT",
     "name": "YatarenNode",
     "isValidator": false,
-    "selfVote": 7300000000,
-    "jackpot": 69967540,
+    "selfVote": 7400000000,
+    "jackpot": 1660275,
     "jackpotAccount": "0x915d8e365aa6c9aa51b8186e2c272e434488a95ff75a60a3d141956491931ff3",
     "url": "yatarennodes.fr",
     "isActive": true,
     "about": "French node for everyone. More information coming later about our work.",
     "sessionKey": "0x247b834adb53366285525f101af776f1fe5e931b13bfed6534583fbbe1f8268d",
     "isTrustee": [],
-    "totalNomination": 7300000000,
-    "lastTotalVoteWeight": "136800000000",
-    "lastTotalVoteWeightUpdate": 20704712
+    "totalNomination": 7400000000,
+    "lastTotalVoteWeight": "0",
+    "lastTotalVoteWeightUpdate": 21992610
   },
   {
     "account": "5U3WpJnkPKks6sWBEMMPS56uHKW9VfSP6rJqh9gHxkaVYXQF",
@@ -516,7 +500,7 @@
     "name": "minerScience",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 9472903,
+    "jackpot": 9466719,
     "jackpotAccount": "0x40c57dcfe6112857cacbc52eb088e1721ebde327395cd8e2b92959194f99ba39",
     "url": "miners.science",
     "isActive": false,
@@ -524,15 +508,15 @@
     "sessionKey": "0x8f386bbb4d760d180a83ab9f3f4fdd341fbfd862e4ce75cecf3c203b995106cb",
     "isTrustee": [],
     "totalNomination": 400000000,
-    "lastTotalVoteWeight": "267014000000000",
-    "lastTotalVoteWeightUpdate": 19414056
+    "lastTotalVoteWeight": "1273492800000000",
+    "lastTotalVoteWeightUpdate": 21932333
   },
   {
     "account": "5UkinkAqz9HGmi8638zrFkr9zCuFaBfPUSzc3iAKtEoGyb4h",
     "name": "ChainX",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 6847399,
+    "jackpot": 21613377,
     "jackpotAccount": "0x265aa10cc1788a36b52e4b8de8d8ca0e77cad1defbf6ef57a61e5cd9a0d98350",
     "url": "chainx.org",
     "isActive": true,
@@ -541,7 +525,7 @@
     "isTrustee": [],
     "totalNomination": 1913800000,
     "lastTotalVoteWeight": "2026655600000",
-    "lastTotalVoteWeightUpdate": 20890278
+    "lastTotalVoteWeightUpdate": 21632084
   },
   {
     "account": "5UoFoURV1sk7cqezdbnA8WAeqeoDi9b95ih8uNPP7QvDA6Vg",
@@ -574,21 +558,5 @@
     "totalNomination": 0,
     "lastTotalVoteWeight": "104085100000000",
     "lastTotalVoteWeightUpdate": 7061819
-  },
-  {
-    "account": "5VGxhDXewZqaVL8TkCEzdS8LwaAcqEmqqGBZ33gT1zE7AEnH",
-    "name": "Token360",
-    "isValidator": false,
-    "selfVote": 0,
-    "jackpot": 36717,
-    "jackpotAccount": "0xb31b9a7933fea3fa5302661ee262af30ab92633a324d0e963d90d54710f870ac",
-    "url": "www.token360.io",
-    "isActive": false,
-    "about": "",
-    "sessionKey": "0x69e42e46aeb855b85181bda3a6c37b02df8868befc0307bcc54df6852c5b9a4e",
-    "isTrustee": [],
-    "totalNomination": 0,
-    "lastTotalVoteWeight": "1046500000000",
-    "lastTotalVoteWeightUpdate": 19381349
   }
 ]
