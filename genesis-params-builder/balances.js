@@ -14,6 +14,14 @@ const legacyCouncilAccount =
 const legacyTeamAccount =
   "0x6193a00c655f836f9d8a62ed407096381f02f8272ea3ea0df0fd66c08c53af81";
 
+// 5T5oFEBXxgjkjtUKM926ZPJzNVf4w8baTgEa1JKLA1bD9J6D
+const legacySDOTAccount =
+  "0x985ce3564a5e74bff91a742388cbb392fd98994b22109fef6efe8d0792662d30";
+
+// 5Pr1XZ817z5S8p1dsSQZXQgMqQAobwKM4bWQpczEyj9BzfJA
+const legacyLBTCAccount =
+  "0x0924185f379c26ecafc4313236df0053a206f9762f982ef60ff3f8aeec0d2976";
+
 var wellknownAccounts = [];
 
 exports.processAccounts = (autoClaimedPots) => {
@@ -33,34 +41,60 @@ exports.processAccounts = (autoClaimedPots) => {
 
   var newPubkeys = [];
 
+  var newTreasuryBalance = BigInt(0);
+
   rawAccounts.forEach((entry) => {
     const account = entry.account;
     const who = asAddress(account);
 
-    // Collect all the accounts that have non-zero PCX assets.
-    const pcxAsset = entry.assets.filter((asset) => asset.name === "PCX");
-    if (pcxAsset.length > 0) {
-      const sum = sumValues(pcxAsset[0].details);
-      if (sum > 0) {
-        if (!autoClaimedPots.includes(who)) {
-          newAccounts.push({ who, free: sum });
-          newPubkeys.push({ account, free: sum });
+    if (
+      account === legacyCouncilAccount ||
+      account === legacyLBTCAccount ||
+      account === legacySDOTAccount
+    ) {
+      const pcxAsset = entry.assets.filter((asset) => asset.name === "PCX");
+      if (pcxAsset.length > 0) {
+        const sum = sumValues(pcxAsset[0].details);
+        if (sum > 0) {
+          newTreasuryBalance += BigInt(sum);
         }
-      } else {
-        zeroCount += 1;
       }
-    }
+    } else {
+      // Collect all the accounts that have non-zero PCX assets.
+      const pcxAsset = entry.assets.filter((asset) => asset.name === "PCX");
+      if (pcxAsset.length > 0) {
+        const sum = sumValues(pcxAsset[0].details);
+        if (sum > 0) {
+          if (!autoClaimedPots.includes(who)) {
+            newAccounts.push({ who, free: sum });
+            newPubkeys.push({ account, free: sum });
+          }
+        } else {
+          zeroCount += 1;
+        }
+      }
 
-    // Collect all the accounts that have non-zero X-BTC assets.
-    const btcAsset = entry.assets.filter((asset) => asset.name === "BTC");
-    if (btcAsset.length > 0) {
-      const sum = sumValues(btcAsset[0].details);
-      if (sum > 0) {
-        newBtcAccounts.push({ who, free: sum });
-      } else {
-        zeroBtcCount += 1;
+      // Collect all the accounts that have non-zero X-BTC assets.
+      const btcAsset = entry.assets.filter((asset) => asset.name === "BTC");
+      if (btcAsset.length > 0) {
+        const sum = sumValues(btcAsset[0].details);
+        if (sum > 0) {
+          newBtcAccounts.push({ who, free: sum });
+        } else {
+          zeroBtcCount += 1;
+        }
       }
     }
+  });
+
+  newAccounts.push({
+    who: asAddress(legacyCouncilAccount),
+    free: Number(newTreasuryBalance),
+  });
+
+  newPubkeys.push({
+    who: legacyCouncilAccount,
+    free: Number(newTreasuryBalance),
   });
 
   console.log(`Total accounts: ${rawAccounts.length}`);
