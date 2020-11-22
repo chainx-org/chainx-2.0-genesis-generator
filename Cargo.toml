@@ -9,6 +9,11 @@ license = "GPL-3.0"
 name = "accounts"
 path = "src/bin/accounts.rs"
 
+# A helper binary to split origin account json files.
+[[bin]]
+name = "split_accounts"
+path = "src/bin/split_accounts.rs"
+
 [[bin]]
 name = "decode"
 path = "src/bin/decode.rs"
