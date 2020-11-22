@@ -18,10 +18,11 @@ $ cargo build --release
 
 ```bash
 # Run the script
-# the height currently only supports multiples of 100_000, like 200_000, 20_000_000
+# the height currently only supports multiples of 10_000, like 20_000, 2_000_000
 $ ./export.sh [height]
 
 # Or edit the config and run the binaries manually
+$ RUST_LOG=info cargo run --release --bin session-index
 $ RUST_LOG=info cargo run --release --bin accounts
 $ RUST_LOG=info cargo run --release --bin intentions
 $ RUST_LOG=info cargo run --release --bin assets

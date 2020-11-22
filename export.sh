@@ -25,7 +25,7 @@ echo "========================================================================="
 echo "Get current session index from storage via RPC..."
 session_index_filename=$state_dir/session-index.json
 if [ ! -f "$session_index_filename" ]; then
-  RUST_LOG=info cargo run --release --bin session_index
+  RUST_LOG=info cargo run --release --bin session-index
 fi
 echo "Done"
 echo "========================================================================="

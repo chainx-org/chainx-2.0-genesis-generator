@@ -11,11 +11,11 @@ path = "src/bin/accounts.rs"
 
 # A helper binary to split origin account json files.
 [[bin]]
-name = "split_accounts"
+name = "split-accounts"
 path = "src/bin/split_accounts.rs"
 
 [[bin]]
-name = "session_index"
+name = "session-index"
 path = "src/bin/session_index.rs"
 
 [[bin]]
