@@ -32,7 +32,7 @@ async fn main() -> Result<()> {
         save_accounts("genesis.json", &accounts)?;
     }
 
-    const CHUNK_NUMBER: u64 = 100_000;
+    const CHUNK_NUMBER: u64 = 10_000;
 
     for height in (1..=target_height).step_by(CHUNK_NUMBER as usize) {
         if accounts_exists(format!("{}-{}.json", height, height + CHUNK_NUMBER - 1))? {
