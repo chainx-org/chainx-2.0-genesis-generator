@@ -22,6 +22,13 @@ echo "ChainX Block Height: $old_height (old) ==> $new_height (new)"
 state_dir=$(pwd)/state_1.0/$new_height
 
 echo "========================================================================="
+echo "Get current session index from storage via RPC..."
+session_index_filename=$state_dir/session-index.json
+if [ ! -f "$session_index_filename" ]; then
+  RUST_LOG=info cargo run --release --bin session_index
+fi
+echo "Done"
+echo "========================================================================="
 echo "Collect ChainX accounts from storage via RPC..."
 accounts_filename=$state_dir/accounts.json
 if [ ! -f "$accounts_filename" ]; then
