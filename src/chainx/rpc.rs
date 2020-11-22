@@ -37,6 +37,17 @@ impl ChainX {
         Ok(data)
     }
 
+    pub async fn session_index(&self, hash: Option<Hash>) -> Result<Option<BlockNumber>> {
+        let hashed_key = twox_128(b"Session CurrentIndex").to_vec();
+        if let Some(data) = self.storage(&StorageKey(hashed_key), hash).await? {
+            log::debug!("session_index - Session CurrentIndex {:?}", data);
+            let current_session_index: BlockNumber = Decode::decode(&mut data.0.as_slice())?;
+            Ok(Some(current_session_index))
+        } else {
+            Ok(None)
+        }
+    }
+
     /// 获取用户资产信息
     pub async fn asset(
         &self,

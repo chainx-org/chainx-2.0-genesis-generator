@@ -15,6 +15,10 @@ name = "split_accounts"
 path = "src/bin/split_accounts.rs"
 
 [[bin]]
+name = "session_index"
+path = "src/bin/session_index.rs"
+
+[[bin]]
 name = "decode"
 path = "src/bin/decode.rs"
 
