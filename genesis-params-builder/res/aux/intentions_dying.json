@@ -68,7 +68,7 @@
     "name": "Stella",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 57201588,
+    "jackpot": 10217468,
     "jackpotAccount": "0x34e705d2acec674e0e4d47d29e0d69fb9c9bd0b20e606f8f4aa6c12815d98496",
     "url": "chainx.org",
     "isActive": true,
@@ -77,7 +77,7 @@
     "isTrustee": [],
     "totalNomination": 9871000000,
     "lastTotalVoteWeight": "14300000000",
-    "lastTotalVoteWeightUpdate": 21810602
+    "lastTotalVoteWeightUpdate": 23134416
   },
   {
     "account": "5QqzU1Qatpm5s8azBBaceVfYHqjdEKHmARPgynBQsxz1aQPq",
@@ -112,22 +112,6 @@
     "lastTotalVoteWeightUpdate": 4489723
   },
   {
-    "account": "5RSmUSWzZQ34TJiitXSGEWDw2kK13cHikMUhRwz1u4wTe44w",
-    "name": "666",
-    "isValidator": false,
-    "selfVote": 27000000000,
-    "jackpot": 73476269,
-    "jackpotAccount": "0x1a68ccdd32b34bee07abcce87954c050b608dcc8d078ad37422cb9bfe60b6066",
-    "url": "666.go",
-    "isActive": true,
-    "about": "我们的节点666",
-    "sessionKey": "0x4fe29bdf95c327b89a9c1e13bfc449007e5f928e42a5913b632c43f522b91665",
-    "isTrustee": [],
-    "totalNomination": 248684072770,
-    "lastTotalVoteWeight": "1217576536703580",
-    "lastTotalVoteWeightUpdate": 21995202
-  },
-  {
     "account": "5RTJVcxaJ6sBScXsefxa6CkZbdPo6uNwkdPbYv6Gpkmyk2RW",
     "name": "Scans",
     "isValidator": false,
@@ -156,8 +140,8 @@
     "sessionKey": "0x599a722dafb902a6ba717c5734396ef757a651c78c6d1acde886837e17f942ad",
     "isTrustee": [],
     "totalNomination": 143000000,
-    "lastTotalVoteWeight": "2691340488300364",
-    "lastTotalVoteWeightUpdate": 21706174
+    "lastTotalVoteWeight": "2790614371000000",
+    "lastTotalVoteWeightUpdate": 22400653
   },
   {
     "account": "5RgzLMND5Lo8Loa3UFe8mmhMD9QEGsAN9GwFRJH4LKy3qUfU",
@@ -196,7 +180,7 @@
     "name": "luckyve2",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 327741,
+    "jackpot": 326444,
     "jackpotAccount": "0x2422be09f6995821026631e127076348229bfc64fe756bfab0bfd158867cd527",
     "url": "scan.chainx.org",
     "isActive": false,
@@ -204,8 +188,8 @@
     "sessionKey": "0x3d33c2da018b7c5f9136e27522e8c07d7d5acdb70d0e5974dfd7888654a0311f",
     "isTrustee": [],
     "totalNomination": 8057000,
-    "lastTotalVoteWeight": "34090836741000",
-    "lastTotalVoteWeightUpdate": 17664339
+    "lastTotalVoteWeight": "69535814000000",
+    "lastTotalVoteWeightUpdate": 22097911
   },
   {
     "account": "5RxsgFX8YawA4CXEvRrA8o3KQS4TgAqSeTZC1JUyMuSBQvhD",
@@ -384,6 +368,22 @@
     "lastTotalVoteWeightUpdate": 992285
   },
   {
+    "account": "5Tee9WTqJGE5V5Sj4zc7iGEHX8tx9hgxgzVxyPMoiVVgfpTR",
+    "name": "XML",
+    "isValidator": false,
+    "selfVote": 193400000000,
+    "jackpot": 39792437,
+    "jackpotAccount": "0x28af5b6955f2712574a69203e8336646bc94fd095961661521c2300a8825660c",
+    "url": "github.com",
+    "isActive": true,
+    "about": "Polkadot Chainx 生态参与者",
+    "sessionKey": "0x2dddecda028cd58534c2b5e96c0fb1287d0fe258a16776d75684ac59cc48f24d",
+    "isTrustee": [],
+    "totalNomination": 193400000000,
+    "lastTotalVoteWeight": "0",
+    "lastTotalVoteWeightUpdate": 23162961
+  },
+  {
     "account": "5Tm4wCJtsRyvfwczRo8wE1w7R155pTEQgP11zJrdczbocMNL",
     "name": "DushuPOS",
     "isValidator": false,
@@ -419,17 +419,17 @@
     "account": "5U1kY3KpEpmFaMPNwRGCoGkJYRkcjJZhZ6jwUveugcsuNBRT",
     "name": "YatarenNode",
     "isValidator": false,
-    "selfVote": 7400000000,
-    "jackpot": 1660275,
+    "selfVote": 7900000000,
+    "jackpot": 14515496,
     "jackpotAccount": "0x915d8e365aa6c9aa51b8186e2c272e434488a95ff75a60a3d141956491931ff3",
     "url": "yatarennodes.fr",
     "isActive": true,
     "about": "French node for everyone. More information coming later about our work.",
     "sessionKey": "0x247b834adb53366285525f101af776f1fe5e931b13bfed6534583fbbe1f8268d",
     "isTrustee": [],
-    "totalNomination": 7400000000,
-    "lastTotalVoteWeight": "0",
-    "lastTotalVoteWeightUpdate": 21992610
+    "totalNomination": 7900000000,
+    "lastTotalVoteWeight": "162800000000",
+    "lastTotalVoteWeightUpdate": 23106830
   },
   {
     "account": "5U3WpJnkPKks6sWBEMMPS56uHKW9VfSP6rJqh9gHxkaVYXQF",
@@ -516,7 +516,7 @@
     "name": "ChainX",
     "isValidator": false,
     "selfVote": 0,
-    "jackpot": 21613377,
+    "jackpot": 730053,
     "jackpotAccount": "0x265aa10cc1788a36b52e4b8de8d8ca0e77cad1defbf6ef57a61e5cd9a0d98350",
     "url": "chainx.org",
     "isActive": true,
@@ -525,7 +525,7 @@
     "isTrustee": [],
     "totalNomination": 1913800000,
     "lastTotalVoteWeight": "2026655600000",
-    "lastTotalVoteWeightUpdate": 21632084
+    "lastTotalVoteWeightUpdate": 23157916
   },
   {
     "account": "5UoFoURV1sk7cqezdbnA8WAeqeoDi9b95ih8uNPP7QvDA6Vg",
