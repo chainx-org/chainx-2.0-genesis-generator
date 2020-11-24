@@ -931,7 +931,7 @@
     "account": "5Surovq9ievYoAxkJ5383Pm8uLVtX3B99TsnbFbPuEVeWv38",
     "name": "ChainX cz/sk",
     "isValidator": false,
-    "selfVote": 3035000000,
+    "selfVote": 535000000,
     "jackpot": 0,
     "jackpotAccount": "0x87a57f6e48fb96d0bf696fbf97c218669a2efe48a21ebf1987d37a7f6d055822",
     "url": "",
@@ -939,9 +939,9 @@
     "about": "",
     "sessionKey": "0x90c86e4b5c3ee4c565d932b31b90dd84d89895ab6b13ada146485e6f2a367ce0",
     "isTrustee": [],
-    "totalNomination": 3035000000,
-    "lastTotalVoteWeight": "19116058305000000",
-    "lastTotalVoteWeightUpdate": 20766237
+    "totalNomination": 535000000,
+    "lastTotalVoteWeight": "23125094810000000",
+    "lastTotalVoteWeightUpdate": 22075240
   },
   {
     "account": "5T5Xq5gWQNnPzL9S3wk2fhspjBaRoaBkzotYZ8fhw3NqRw15",
@@ -1019,9 +1019,9 @@
     "about": "tommy",
     "sessionKey": "0x553baa65763ced07c618563b3428b56adcef5e3138ac0d5b10eeb89b2e828968",
     "isTrustee": [],
-    "totalNomination": 63200000,
-    "lastTotalVoteWeight": "963846004534892824",
-    "lastTotalVoteWeightUpdate": 18835339
+    "totalNomination": 0,
+    "lastTotalVoteWeight": "964098239779692824",
+    "lastTotalVoteWeightUpdate": 22826403
   },
   {
     "account": "5TKAXwHjh11TKREF1bmxxH2rFJb4L7nEAKVNjD67XchvArEe",
