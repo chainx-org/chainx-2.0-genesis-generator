@@ -22,6 +22,10 @@ const legacySDOTAccount =
 const legacyLBTCAccount =
   "0x0924185f379c26ecafc4313236df0053a206f9762f982ef60ff3f8aeec0d2976";
 
+// 5S92a9mNMMaRN9KDp582p54DYNqBADVUUv6jxmt3AC2tat4g
+const legacyXBTCAccount =
+  "0x6e97404385fde81240956d6a67cb59f07d12445438f0a28aa091c3f8a016e27a";
+
 var wellknownAccounts = [];
 
 exports.processAccounts = (autoClaimedPots) => {
@@ -37,6 +41,7 @@ exports.processAccounts = (autoClaimedPots) => {
     legacy_council: asAddress(legacyCouncilAccount),
     legacy_team: asAddress(legacyTeamAccount),
     legacy_pots: getRewardPotAccounts(),
+    legacy_xbtc_pot: asAddress(legacyXBTCAccount),
   };
 
   var newPubkeys = [];
